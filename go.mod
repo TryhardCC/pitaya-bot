@@ -1,4 +1,4 @@
-module github.com/topfreegames/pitaya-bot
+module github.com/TryhardCC/pitaya-bot
 
 go 1.12
 
